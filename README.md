@@ -14,4 +14,4 @@ The user and password for RStudio on gitpod is:
 username = gitpod
 password = rstudio
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/environment-bsa-rstudio)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AstraBert/environment-bsa-rstudio)
